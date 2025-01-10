@@ -1,5 +1,7 @@
 # 基于epoll的C/C++多人聊天室
 
+**项目已上线 可下载发行版使用**
+
 **server端**：Linux
 
 **client端**：Windows
